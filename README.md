@@ -80,6 +80,7 @@ The Bank Customer Churn dataset contains information about bank customers, this 
 
 ### Recommendations
 1. **Investigate Reason For Customer Churn**: There should be survey on the 2,037 customer churn in other to get feedback on the reason for churn and address a possible solution, high churn rates often indicate underlying issues, such as poor customer experience, inefficient processes, or a lack of competitive products and features, high cost of fee, poor fraud management. Therefore, understanding and managing customer attrition are crucial for banks to address these challenges and enhance their overall customer experience.
+
 2. **Churn prevention strategies**:
 - Leverage every channel (use multiple channels).
 - Get client feedback.
