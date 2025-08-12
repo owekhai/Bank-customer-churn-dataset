@@ -54,7 +54,7 @@ The Bank Customer Churn dataset contains information about bank customers, this 
 * 4. Doughnut: Analyzed the “The total customers with and without credit card”.
 * 5. 3-D pie: Analyzed “The active and inactive customers”.
 * 6. Clustered bar: Analyzes the “Total geography balance”.
-* 7.3-D Clustered column: Shows “The top 10 age with the highest balance”.
+* 7. 3-D Clustered column: Shows “The top 10 age with the highest balance”.
 * 8. 3-D Stacked column: Analyzes the “Age with the highest estimated salary”.
 *9. 3-D Clustered column: Shows “The age with the highest exit”.
  
