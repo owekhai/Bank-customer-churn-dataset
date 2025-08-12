@@ -42,9 +42,8 @@ The Bank Customer Churn dataset contains information about bank customers, this 
 
 ### Data Cleaning
 * 1. Null/empty value check to ensure no missing data.
-* 2.  Pizza type column was created for proper analysis on “vegetarian and non vegetarian” set of Pizza.
-* 3. Duplicate value check: no duplicates found.
-* 4. The "" column is been split into Days, Month, and Year of purchase for proper analysis.
+* 2. Duplicate value check: no duplicates found.
+* 3. Columns like Exit, isactive and credit card with 1 and 0 documentation was change to yes and no for proper analysis and illustration.
 
 ### Inference Analysis
   The analysis uses several techniques:
