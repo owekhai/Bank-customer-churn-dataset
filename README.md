@@ -93,7 +93,7 @@ The Bank Customer Churn dataset contains information about bank customers, this 
 - Provides annual and long time agreements.
 - App friendly
 3. **Card fees and interest rate**: 2,945 customers have no credit card, reasons could be high rate cost of the credit card or the rate of frequent charges assign to credit card, therefore the bank should consider fees reduction on both in order to dive customers attention focusing on its important.
-4. ** In-active prevention strategies **: 4,849 customers are not active, reasons could be high rate cost of products or lack of competitive products or the rate of frequent charges assign to service render, or App not friendly, therefore the bank should consider developing digital App friendly, provides competitive product and reduction in product and service fees.
+4. **In-active prevention strategies**: 4,849 customers are not active, reasons could be high rate cost of products or lack of competitive products or the rate of frequent charges assign to service render, or App not friendly, therefore the bank should consider developing digital App friendly, provides competitive product and reduction in product and service fees.
 5. **Provide excellent customers service**: Train staff to be helpful and friendly, creating a positive experience for banking.
 6. **Create a welcoming atmosphere**: Ensure cleanliness, good lightning and comfortable seating.
 7. **Leverage technology**: Implement user-friendly websites and mobile apps for navigation, promotion, and online banking options.
