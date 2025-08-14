@@ -60,7 +60,7 @@ The Bank Customer Churn dataset contains information about bank customers, this 
 ### Findings
 * The total customers is 10,000.
 * The total estimated salary is N1,000,902,399 and total balance is 764,858,893.
-* The average estimated salary is N100,090 and total balance is 76,488.
+* The average estimated salary is N100,090 and average total balance is 76,488.
 * The non active customers have a balance of 374,024,593 while the Active customers balance is 390,834,299
 * The non active customers have an Estimated salary balance of 488,620,171 while the Active customers Estimated salary balance is 512,282,227
 * The Customer churn is 2,037 count and have a total balance of 185,588,094 and an total estimated salary balance of 206,685,585
