@@ -1,4 +1,4 @@
-# Bank-customer-churn-dataset.
+# Bank-customer-churn-dataset
 ## Table of Contents
 - [Data Description](#dataset-description)
 - [Content](#content)
