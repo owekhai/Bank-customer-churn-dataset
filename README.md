@@ -58,24 +58,43 @@ The Bank Customer Churn dataset contains information about bank customers, this 
 *9. 3-D Clustered column: Shows “The age with the highest exit”.
  
 ### Findings
-* The total customers is 10,000.
-* The total estimated salary is N1,000,902,399 and total balance is 764,858,893.
+The purpose of any bank dataset is to keep trends of customer who either left or  continue banking as a customers.
+
+Data Source:
+
+The data source for the analysis is a csv file named "bank customer churn.csv" gotten from Maven analytics data playgroung.
+
+The findings provide valuable insights to banking system.
+And I am Excited to share.
+
+Bank Customer Analysis: 
+
+Analysis Overview:
+
+The Bank Customer Churn dataset contains information about bank customers, this includes their demographic details, credit score, account balance, tenure and other features.
+
+These analyses utilized  with key performance indicators (KPIs) calculated via Python for cleaning, Excel Pivot Table for Analysis and visualization.
+
+Findings
+* Total customers is 10,000.
+* Total estimated salary is N1,000,902,399 and total balance is 764,858,893.
 * The average estimated salary is N100,090 and average total balance is 76,488.
-* The non active customers have a balance of 374,024,593 while the Active customers balance is 390,834,299
-* The non active customers have an Estimated salary balance of 488,620,171 while the Active customers Estimated salary balance is 512,282,227
+* The inactive customers have a balance of 374,024,593 while the Active customers balance is 390,834,299
+* The inactive customers have an Estimated salary balance of 488,620,171 while the Active customers Estimated salary balance is 512,282,227
 * The Customer churn is 2,037 count and have a total balance of 185,588,094 and an total estimated salary balance of 206,685,585
-* France has the highest Estimated Salary and highest balance next Germany and Spain.
-* Customers that exited is 2,037 out of 10,000.
-* Active customers is 5,151 none active 4,849.
-* Total number of 3,547 customers are with the bank yet not active
+* France has the highest Estimated Salary and highest balance next Germany
+* Exited customers 2,037
+* Active customers is 5,151
+* Inactive 4,849.
 * Total number of 735 customers have exit the bank but indicating active probably an update issue
-* Customers with card is 7,055 without card is 2,945.
-* Smith a 67 years active female customer from France has the highest value balance of 2,631,243 while Yeh a 37 years Female customer from France has the highest estimated salary 3,225,671.
-* Ferri a 39 years female from Spain has the highest values count rows balance and also has the highest value counts rows of Credit Score also among the top Tenure, yet has no credit card and also less than an average of active customer counts.
-* Male customers has the highest balance of 543,869,596 while the female customers is 457,032,803 balance.
-* Male customers also have the highest value counts of customers, a count of 5,457 while Female is 4,543.
-* France has the highest value counts of customers in terms of Geographical zones, a count of 5,014 next to Germany 2,509 and Spain 2,477.
-* Highest age 92, maximum balance 250,898 maximum estimated salary 199,992 maximum tenure 10, maximum numbers of product 4, highest credit store 185.
+* Customers with card 7,055 without card 2,945.
+* Smith a 67 years female customer from France has the single highest account balance 2,631,243 while Yeh a 37 years Female customer from France has the single highest estimated salary 3,225,671.
+* Ferri a 39 years female from Spain has the highest values count rows, also has the highest value counts rows of Credit Score also among the top Tenure, yet has no credit card and also less than an average of active customer counts.
+* Male customers bal 543,869,596
+* Female customers bal 457,032,803
+* Male customers count 5,457
+* Female customers count 4,543.
+* France has the highest value counts of customers (5,014) next to Germany (2,509) 
 
 ### Recommendations
 1. **Investigate Reason For Customer Churn**: There should be survey on the 2,037 customer churn in other to get feedback on the reason for churn and address a possible solution, high churn rates often indicate underlying issues, such as poor customer experience, inefficient processes, or a lack of competitive products and features, high cost of fee, poor fraud management. Therefore, understanding and managing customer attrition are crucial for banks to address these challenges and enhance their overall customer experience.
@@ -105,5 +124,3 @@ The Bank Customer Churn dataset contains information about bank customers, this 
 
 ### Conclusion
 - The bank should focus on improving customer experience, providing better products and services with a good working environment and loyalty program, also offering competitive product with fair rates, and being accessible through digital channels.
-
-
