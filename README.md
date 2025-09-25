@@ -56,27 +56,29 @@ The Bank Customer Churn dataset contains information about bank customers, this 
 * 7. 3-D Clustered column: Shows “The top 10 age with the highest balance”.
 * 8. 3-D Stacked column: Analyzes the “Age with the highest estimated salary”.
 *9. 3-D Clustered column: Shows “The age with the highest exit”.
- 
-### Findings
+
+Findings
 * Total customers is 10,000.
-* Total estimated salary is N1,000,902,399 and total balance is 764,858,893.
-* The average estimated salary is N100,090 and average total balance is 76,488.
-* The inactive customers have a balance of 374,024,593 while the Active customers balance is 390,834,299
-* The inactive customers have an Estimated salary balance of 488,620,171 while the Active customers Estimated salary balance is 512,282,227
-* The Customer churn is 2,037 count and have a total balance of 185,588,094 and an total estimated salary balance of 206,685,585
+* Total estimated salary €1,000,902,399
+* Total balance €764,858,893.
+* The average estimated salary is €100,090
+* Average total balance $76,488.
+* The inactive customers have a balance of €374,024,593 while the Active customers balance is $390,834,299
+* The inactive customers have an Estimated salary bal of €488,620,171 while the Active customers Estimated salary balance is €512,282,227
+* The Customer churn is 2,037 and have a total bal of €185,588,094 estimated salary bal of €206,685,585
 * France has the highest Estimated Salary and highest balance next Germany
 * Exited customers 2,037
 * Active customers is 5,151
-* Inactive 4,849.
+Inactive 4,849.
 * Total number of 735 customers have exit the bank but indicating active probably an update issue
 * Customers with card 7,055 without card 2,945.
-* Smith a 67 years female customer from France has the single highest account balance 2,631,243 while Yeh a 37 years Female customer from France has the single highest estimated salary 3,225,671.
-* Ferri a 39 years female from Spain has the highest values count rows, also has the highest value counts rows of Credit Score also among the top Tenure, yet has no credit card and also less than an average of active customer counts.
-* Male customers bal 543,869,596
-* Female customers bal 457,032,803
-* Male customers count 5,457
-* Female customers count 4,543.
-* France has the highest value counts of customers (5,014) next to Germany (2,509) 
+* Smith a 67 years female customer from France has the single highest account balance €2,631,243 while Yeh a 37 years female customer from France has the single highest estimated salary €3,225,671.
+* Ferri a 39 years female from Spain has the highest value counts of Credit Score also among the top Tenure, yet has no credit card and also less than an average of active customer counts.
+* Male customers bal €543,869,596
+* Female customers bal €457,032,803
+* Male customers 5,457
+* Female customers 4,543.
+* France has the highest value counts of customers(5,014)next to Germany(2,509)
 
 ### Recommendations
 1. **Investigate Reason For Customer Churn**: There should be survey on the 2,037 customer churn in other to get feedback on the reason for churn and address a possible solution, high churn rates often indicate underlying issues, such as poor customer experience, inefficient processes, or a lack of competitive products and features, high cost of fee, poor fraud management. Therefore, understanding and managing customer attrition are crucial for banks to address these challenges and enhance their overall customer experience.
@@ -98,7 +100,8 @@ The Bank Customer Churn dataset contains information about bank customers, this 
 5. **Provide excellent customers service**: Train staff to be helpful and friendly, creating a positive experience for banking.
 6. **Create a welcoming atmosphere**: Ensure cleanliness, good lightning and comfortable seating.
 7. **Leverage technology**: Implement user-friendly websites and mobile apps for navigation, promotion, and online banking options.
-8. **General survey on inactive customers**: Total number of 3,547 customers are with the bank yet indicate inactive which is no much different from exit due to their stagnation, reasons could be competitors offers, death occurrence or poor management system, a survey should be carry out on such customers to acquire useful information on feedback.
+8. **Increase Customer Engagement: A significant customer of 3547 are with the bank but are stagnant—effectively making them inactive. It's crucial to understand the reasons for mute, if dead or alive.
+
 
 ### Limitations
 1. **Lack of customers feedback data**: Customer feedback would significantly enhance understanding of the rating distributions and offer targeted ways to improve customer satisfaction.
