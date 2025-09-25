@@ -32,7 +32,7 @@ The Bank Customer Churn dataset contains information about bank customers, this 
 
 ### Data Sources 
 
-•	The data source for the analysis is a Comma Separated Values(csv) file named "bank customer churn.csv" gotten from Maven analytics data playgroung
+•	The data source for the analysis is a Comma Separated Values(csv) file named "bank customer churn.csv" gotten from Maven analytics data playground
 ### Tools:
 * Python For data cleaning and preparation.
 * Excel
