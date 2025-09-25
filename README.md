@@ -97,7 +97,7 @@ The Bank Customer Churn dataset contains information about bank customers, this 
 5. **Provide excellent customers service**: Train staff to be helpful and friendly, creating a positive experience for banking.
 6. **Create a welcoming atmosphere**: Ensure cleanliness, good lightning and comfortable seating.
 7. **Leverage technology**: Implement user-friendly websites and mobile apps for navigation, promotion, and online banking options.
-8. **General survey on inactive customers**: Total number of 3,547 customers are with the bank yet inactive which is no much different from exit due to their stagnation, reasons could be competitors offers, death occurrence or poor management system, a survey should be carry out on such customers to acquire useful information on feedback.
+8. **General survey on inactive customers**: Total number of 3,547 customers are with the bank yet indicate inactive which is no much different from exit due to their stagnation, reasons could be competitors offers, death occurrence or poor management system, a survey should be carry out on such customers to acquire useful information on feedback.
 
 ### Limitations
 1. **Lack of customers feedback data**: Customer feedback would significantly enhance understanding of the rating distributions and offer targeted ways to improve customer satisfaction.
