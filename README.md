@@ -58,24 +58,6 @@ The Bank Customer Churn dataset contains information about bank customers, this 
 *9. 3-D Clustered column: Shows “The age with the highest exit”.
  
 ### Findings
-The purpose of any bank dataset is to keep trends of customer who either left or  continue banking as a customers.
-
-Data Source:
-
-The data source for the analysis is a csv file named "bank customer churn.csv" gotten from Maven analytics data playgroung.
-
-The findings provide valuable insights to banking system.
-And I am Excited to share.
-
-Bank Customer Analysis: 
-
-Analysis Overview:
-
-The Bank Customer Churn dataset contains information about bank customers, this includes their demographic details, credit score, account balance, tenure and other features.
-
-These analyses utilized  with key performance indicators (KPIs) calculated via Python for cleaning, Excel Pivot Table for Analysis and visualization.
-
-Findings
 * Total customers is 10,000.
 * Total estimated salary is N1,000,902,399 and total balance is 764,858,893.
 * The average estimated salary is N100,090 and average total balance is 76,488.
