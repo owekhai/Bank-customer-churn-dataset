@@ -108,4 +108,4 @@ Inactive 4,849.
 2. **Inadequate information**: Vital information where not included such as the date, customers rating and other banking information 
 
 ### Conclusion
-- The bank should focus on improving customer experience, providing better products and services with a good working environment and loyalty program, also offering competitive product with fair rates, and being accessible through digital channels.
+- The bank should focus on improving customer experience, providing better products and services with a good working environment and loyalty program, also offering competitive product with fair rates and being accessible through digital channels.
