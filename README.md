@@ -66,13 +66,13 @@ Findings
 * The inactive customers have a balance of €374,024,593 while the Active customers balance is $390,834,299
 * The inactive customers have an Estimated salary bal of €488,620,171 while the Active customers Estimated salary balance is €512,282,227
 * The Customer churn is 2,037 and have a total bal of €185,588,094 estimated salary bal of €206,685,585
-* France has the highest Estimated Salary and highest balance next Germany
+* France has the highest sum Estimated Salary and highest sum balance next Germany
 * Exited customers 2,037
 * Active customers is 5,151
 Inactive 4,849.
 * Total number of 735 customers have exit the bank but indicating active probably an update issue
 * Customers with card 7,055 without card 2,945.
-* Smith a 67 years female customer from France has the single highest account balance €2,631,243 while Yeh a 37 years female customer from France has the single highest estimated salary €3,225,671.
+* Smith a 67 years female customer from France has the single highest sum account balance €2,631,243 while Yeh a 37 years female customer from France has the single highest sum estimated salary €3,225,671.
 * Ferri a 39 years female from Spain has the highest value counts of Credit Score also among the top Tenure, yet has no credit card and also less than an average of active customer counts.
 * Male customers bal €543,869,596
 * Female customers bal €457,032,803
